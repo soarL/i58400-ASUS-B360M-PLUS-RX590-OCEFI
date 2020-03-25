@@ -3,6 +3,9 @@
 
 ![Image text](./pic1.png)
 
+
+<img width="1200" src="./pic2.png"/>
+
 ###更新记录
 - 2020/03/25 暂无  
 
