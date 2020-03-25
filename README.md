@@ -3,7 +3,7 @@
 
 ![Image text](./pic1.png)
 
-<img width="1200" src="./pic2.png"/>
+<img width="1200" src="./pic3.png"/>
 
 ### 更新记录
 
